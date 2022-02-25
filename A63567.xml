@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The True narrative of the confession and execution of the eight prisoners at Tyburn on Wednesday the 14th of this instant July 1680 viz. Thomas Sides, James Care, Joseph Warner alias Westwood, Sammuel Griffin for fellonies and burglaries, William Wilson for robbing on the high-way, Mary Clark for murthering her bastard-child, Jane Pool, Susannah French, alias Hollis, for shop-lifting.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63567</idno>
+            <idno type="STC">Wing T2782</idno>
+            <idno type="STC">ESTC R27020</idno>
+            <idno type="EEBO-CITATION">09618945</idno>
+            <idno type="OCLC">ocm 09618945</idno>
+            <idno type="VID">43826</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43826)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1344:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The True narrative of the confession and execution of the eight prisoners at Tyburn on Wednesday the 14th of this instant July 1680 viz. Thomas Sides, James Care, Joseph Warner alias Westwood, Sammuel Griffin for fellonies and burglaries, William Wilson for robbing on the high-way, Mary Clark for murthering her bastard-child, Jane Pool, Susannah French, alias Hollis, for shop-lifting.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:43826:1"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="1" facs="tcp:43826:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>THE TRUE NARRATIVE OF THE CONFESSION AND EXECUTION Of the eight Priſoners at TYBURN, On <date>
+                  <hi>Wedneſday</hi> the 14th of this inſtant <hi>July,</hi> 1680 </date> 
+               <hi>Viz. Thomas Sides, James Care, Joſeph Warner,</hi> alias <hi>Westwood, Sammuel Griffin,</hi> for Fellonies and Burglaries. <hi>William Wilſon</hi> for Robbing on the High-way. <hi>Mary Cla<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> for Murthering her Baſtard-Child. <hi>Jane Pool, Suſannah French,</hi> alias <hi>Hollis,</hi> for ſhop-lifting.</head>
+            <p>HOw ſtupified are theſe daring Wretche<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> who headlong hurle themſelves into the ſnares of Death and ruine, re<g ref="char:EOLhyphen"/>gardleſs of theie future ſtates, not minding what ſhall happen nor the dire event that followes after ſuch raſh preſumpti<g ref="char:EOLhyphen"/>on, for ſure it is, did man but know death was the certain porti<g ref="char:EOLhyphen"/>on of his Crimes, he would not without great caution and deli<g ref="char:EOLhyphen"/>berate pauſe, ruſh forward on his pointed dart but fearleſs of ſuch ill or accident of chance as they term it the ſweet hopes of gain ſtill prompts them on with thoughts of large ſecurity, and to eſcape at laſt; Which often fa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l their expectations leaves them under the preſſure of offended Juſtice, whole dread Arm cruſh<g ref="char:EOLhyphen"/>es them when leaſt able to defend themſelves, and cha<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns their Lives as a juſt expiation for offences done againſt the Laws both Divine and humain, as may frequently be ſeen in theſe ſad ex<g ref="char:EOLhyphen"/>amples which I ſhall rela<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, theſe moſt remarkable w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fol<g ref="char:EOLhyphen"/>loweth,
+<pb n="2" facs="tcp:43826:2"/>
+               <!-- PDF PAGE 17 -->
+               <hi>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s Sides</hi> a notorious offendor received Sentance, for that he in the Company of one <hi>John Moor</hi> had committed lately 3 notorious Robberies by breaking open the ſeveral houſes of the parties whole names we here recited, <hi>viz</hi> of one <hi>John Baker a Barber,</hi> of the Pariſh of Great St <hi>Bartholomews,</hi> in June laſt, a<g ref="char:EOLhyphen"/>bout 5 of the Clock in the Morning, they being ſuppoſed to watch the ſaid <hi>Baker</hi> out, who being no ſooner gone, but they with Picklocks opened his ſhop, and took 3 Pereuks, a look<g ref="char:EOLhyphen"/>ing Glaſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, 5 R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>z<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, 3 pair of Scizers, 3 Napkins and ſe<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral Caſes of Silver-tipped inſtruments; all to the vallue of ſixteen pounds which they undiſcovered conveyed away, on the 23d following, they broke open the Warehouſe of one Mr. <hi>Samuel Harris,</hi> in <hi>Bartholomew Cloſe, Sides</hi> toking thence 11 pieces of ſtuff <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lued at 40 pounds, and carried the ſame to the houſe of one <hi>John Grain<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> living a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three Roſes in Cloth Fair, whither they being purſued, were found with it, the Priſoner having hid himſelf under the Bed feigning himſelf dead-drunk, the other was for Robbing one <hi>Charles Thomſon</hi> a Barber in the Pariſh of St. <hi>Brides,</hi> of Raz<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, Scizers, Looking-Glaſſes, hair and Pereuks to a conſiderable vallues which was found hid between the Tiles and the Seiling, where they randeſvouſed, all theſe being pro<g ref="char:EOLhyphen"/>ved <hi>Sides</hi> who had been burnt in the hand not above 2 Seſſions ſince. Received the dreadful Sentance of Death, after which he ſeemed much to bewail his Folly repenting that he had giuen up his youthful days unto ſuch vanity, declaring that it was looſe and ext<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avigant Company that had brought him to theſe ways, and his not regarding the good education that his Parents had brou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ht him up in, deſiring all young Men to take warning by his ſad example, and not for the ſake of Idleneſs to plunge th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mſelves into ſuch ways as might bring on them a ſhameful death; and ſo ended his Life w<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th great Penitency and contrition.</p>
+            <p>
+               <hi>William W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lliamſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> a Foot-pad and one of the great Gang that have ſo long infeſted the neighbouring Roads, his Crime was for Robbing Juſtice <hi>Northies</hi> Coach a little beyond <hi>Bow,</hi> in <hi>No<g ref="char:EOLhyphen"/>vember</hi> laſt, and taking from ſeveral perſons there in Goods and monies to the vallue of one hundred and twelve pounds, <hi>viz</hi> a Necklace of <hi>Pearl</hi> vallued at 105 pound. a Cravat, a ſilver hilt<g ref="char:EOLhyphen"/>ed ſword, a Scarf, and about 5 or 6 ſhillings in mony with other things conſiderable, after this Robery was done they return to their randeſvouſe in <hi>White Chappel,</hi> and there diſpoſed of the a<g ref="char:EOLhyphen"/>foreſaid
+<pb n="3" facs="tcp:43826:2"/>
+               <!-- PDF PAGE 17 -->Goods, pawning the Scarf for their Reconing, <hi>Phillips</hi> and <hi>Rumley</hi> two of the Gang being already Executed, and the Robery proved againſt the Priſoner by one that with him in it; and he was caſt and received Sentance of death, after which he for a time ſeemed little concerned flattering himſelf as it is thought with the hope of a Pardon, but that failing he began to conſider how he ſtood tottering upon the Brink of Eternity; and that his hopes hang now but by the ſlender thred of Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the wh<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch had but a few days more to ſpin its Co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſe upon which had but a few days more, to ſpin its courſe, upon which he bewailed his m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sfortune and with a ſad and heavy Countenance continued till the utmoſt moment of Mortality, exhorting all to repentance and for to beware of Crimes like his, <hi>&amp;c.</hi>
+            </p>
+            <p>In this Fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al Scene of Death and ruine, followed <hi>Mary Clark</hi> of St <hi>Botolphs</hi> without <hi>Algate</hi> Widdow, for that inhum<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in Act of Murthering her Baſtard-Child and to her ſhame, add ſin to ſin for being ſecretly delivered of a Female-Infant, ſhe with both her hands, ſtrangled it, and kept it in her Chamber two days or thereabout, before ſhe could have oportunity to convey it thence the which ſhe after put into the Common Vault, where it was found and after ſome enquiry certified to be her Child by reaſon of her illneſs ſhe gave ſuſpicion to ſome of the Neighbours who ſearched her, and thereupon found ſhe had had a Child, which ſhe could not deny, but her excuſe was that it was born dead, and that ſhe cried out but could get no help, but upon the Sta<g ref="char:EOLhyphen"/>tute of King <hi>Jame<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſhe was found Guilty of wilful Murder, and S<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ntance of Death, after which ſhe ſeemed ſo ſtupified that it was thought ſhe was not ſenſible of her condition, yet in ſome manner ſhe was obſerved to relent, eſpecially after ſhe had heard the good exhortations of ſeveral pious Miniſters who came to viſit her with the reſt.</p>
+            <p>
+               <hi>Samuel Gr<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffin</hi> for robing the houſe of a perſon of Quality, the goods being found about him in a houſe in Shoo Lane and ha<g ref="char:EOLhyphen"/>ving been an old offender, and once pardoned, he received Sen<g ref="char:EOLhyphen"/>tance, he was not much concerned at the near approach of death during the reſort in <hi>N<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wgate,</hi> but ſeemed obſtinate, and endea<g ref="char:EOLhyphen"/>voured vindicate himſelf, ye at the nearer approach of that gaſt<g ref="char:EOLhyphen"/>ly King of Terrors, he began to ſigh and oft with lifted up hands and eyes ſend up his ejaculations, eſpecially a little before his departure into the Regions of boundleſs immortality.</p>
+            <pb n="4" facs="tcp:43826:3"/>
+            <!-- PDF PAGE 18 -->
+            <p>
+               <hi>James Care</hi> and <hi>Joſeph Warner,</hi> alias <hi>Weſtwood,</hi> received Sen<g ref="char:EOLhyphen"/>tance of Death with the reſt, the former for breaking open a Houſe near <hi>Hounſlow,</hi> and moſt barbarouſly uſing the people of the houſe, and taking thence ſeveral parcels of Goods as pewter Braſs and Linnen, the latter being a notorious offendor having been burnt in the hand, and known to commit ſeveral Burglaries and was now Sentanced for breaking open a Houſe, and was this day executed with the reſt.</p>
+            <p>
+               <hi>Jane Pool</hi> and <hi>Suſannah French</hi> alias <hi>Hollis,</hi> two notorious Shoplifts who were Condemned in <hi>October</hi> laſt, were likewiſe ex<g ref="char:EOLhyphen"/>ecuted, the former having her Son Executed the laſt Seſſions, and her Daughter now lies Condemned in <hi>Newgate.</hi> They both were exceeding penitent, and ſo continued to the laſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43826:3"/>
+            <!-- PDF PAGE 18 -->
+         </div>
+      </body>
+   </text>
+</TEI>
